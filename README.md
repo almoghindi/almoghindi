@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently, I am working on RentRats, the startup I founded.<br>👯 In love with coding.<br>🌱 Full-stack developer - self-learner.<br>⚡ Former basketball player.<br>🤝 Strive for greatness.<br>🔥My own portfolio website: https://www.almog-hindi.com<br><br>
+🔭 Currently, I am working on RentRats, the startup I founded.<br>👯 In love with coding.<br>🌱 Full-stack developer - self-learner.<br>⚡ Former basketball player.<br>🔥My own portfolio website: https://www.almog-hindi.com<br><br>
 
 
 ## 🌐 Socials:
