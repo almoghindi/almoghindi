@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Currently, I am working on Soundlink.<br>🤓 In love with coding.<br> </> Full-stack developer - self-learner.<br>🏀 Former basketball player.<br>🔥 My own portfolio website: https://almog-hindi-portfolio.vercel.app/
+ </> Full-stack developer.<br>👨‍💻 Currently, I am working on Soundlink.<br>🤓 In love with coding.<br>🏀 Former basketball player.<br>🔥 My own portfolio website: https://almog-hindi-portfolio.vercel.app/
 <br><br>
 
 
