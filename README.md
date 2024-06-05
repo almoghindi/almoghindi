@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Currently, I am working on Rentiffy, the startup I founded.<br>🤓 In love with coding.<br> </> Full-stack developer - self-learner.<br>🏀 Former basketball player.<br>🔥 My own portfolio website: https://almog-hindi.vercel.app
+👨‍💻 Currently, I am working on Rentiffy, the startup I founded.<br>🤓 In love with coding.<br> </> Full-stack developer - self-learner.<br>🏀 Former basketball player.<br>🔥 My own portfolio website: https://almog-hindi-portfolio.vercel.app/
 <br><br>
 
 
